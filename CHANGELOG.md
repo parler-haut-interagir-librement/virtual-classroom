@@ -4,6 +4,12 @@ All notable changes to `phil/virtual-classroom` will be documented in this file.
 
 Updates should follow the [Keep a CHANGELOG](https://keepachangelog.com/) principles.
 
+## 0.1.1-alpha - 2026-11-24
+
+### Changed
+
+- Requires the latest minor of each dependency (`symfony/http-client-contracts` 3.8).
+
 ## 0.1.0-alpha - 2026-11-20
 
 ### Added
